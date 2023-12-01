@@ -6,3 +6,13 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ccc;
+}
+
+#cabecalho {
+    background-color: #ffff;
+    text-align: center;
+    padding: 30px;
+}
