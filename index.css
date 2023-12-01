@@ -6,11 +6,3 @@
     box-sizing: border-box;
 }
 
-#cabecalho {
-    background-image: url(https://media.discordapp.net/attachments/1178444211557765192/1179943758175944714/yonko3.png?ex=657b9f42&is=65692a42&hm=07b7ee3124b057b0c81289be023c2c58320ae936a63bf7babb00d16d5dde4723&=&format=webp&quality=lossless);
-    height: 350px;
-    background-repeat: no-repeat;
-    background-position: right center;
-    background-size: contain;
-    width: 890px;
-}
