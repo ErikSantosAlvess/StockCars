@@ -16,3 +16,89 @@ body {
     text-align: center;
     padding: 30px;
 }
+
+.header-content {
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    margin-bottom: 55px;
+}
+
+.header-list-link {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 90px;
+}
+
+.header-list-link a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    padding: 10px;
+}
+
+.header-list-link a:hover {
+    letter-spacing: .1rem;
+    background-color: rgba(255, 166, 0, 0.788);
+    color: #ffff;
+}
+
+/* Subtítulo do main */
+
+.subtitle-main {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    margin: 90px;
+}
+
+/* Div box-info */
+
+#box-info {
+    padding: 30px;
+    text-align: center;
+    background-color: rgba(27, 89, 182, 0.664);
+    box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.479);
+}
+
+#box-info > h3 {
+    margin-bottom: 15px;
+    letter-spacing: .3rem;
+}
+
+#box-info .span-info {
+    line-height: 30px;
+}
+
+/* Main box */
+
+#main-box {
+    margin: 60px;
+}
+
+.section-box article {
+    margin-bottom: 50px;
+    border: 1px solid black;
+    padding: 30px;
+}
+
+.card-1 {
+    background-image: url(https://images.alphacoders.com/101/thumb-1920-1015682.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.card-2 {
+    background-image: url(https://images8.alphacoders.com/478/478146.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-3 {
+    background-image: url(https://4.bp.blogspot.com/-6Kk1Y7EMb0E/WoHqrtnT-1I/AAAAAAAAZUg/HAT5DGgL-L8P_P2foM-hohL0QP49v3qiwCLcBGAs/s1600/Plymouth%2BExplorer%2B-%2BB%2526W%2B-%2Bfront%2B56.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
